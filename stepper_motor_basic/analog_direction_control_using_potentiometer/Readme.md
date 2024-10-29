@@ -1,0 +1,2 @@
+<h1>Potentiometer Based Direction Control </h1>
+<p>This circuit illustrate how to controls a stepper motor's direction and angle based on analog input from potentiometer, allowing clockwise and counterclockwise direction. I simulate this on WOKWI </p>
