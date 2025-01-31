@@ -11,4 +11,4 @@
 <li>Matplotlib</li>
 <ul>
 <h3>Hand Land Marks</h3>
-<img src = "led_control_using_hand_gesture/hand-landmarks.png" alt="hand_land_mark">
+<img src = "https://github.com/Ritushwar/Arduino/blob/main/led_control_using_hand_gesture/open_close_gesture.ipynb" alt="hand_land_mark">
